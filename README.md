@@ -10,8 +10,12 @@ For me i Remake code make it Support Firebot Twitch BOT thats goes credits to `N
 
 1. Download Latest Script in [RELEASES](https://github.com/NekoSuneVR/firebot-VNyan-Websocket/releases)
 2. Drag this Script in `%AppData%\Firebot\v5\profiles\Main Profile\scripts`
+3. Make sure this settings turned on show gif below
 
-then good go, can make commands like this
+![Firebot_v5_hQ6U5xyqaQ](https://github.com/user-attachments/assets/facffc55-7ab6-41d3-bc20-1b9b37c3dbf9)
+
+
+then good go, can make commands/channel Points like this
 
 Have fun :)
 
