@@ -17,6 +17,8 @@ For me i Remake code make it Support Firebot Twitch BOT thats goes credits to `N
 
 then good go, can make commands/channel Points like this
 
+
+
 Have fun :)
 
 
