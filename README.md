@@ -1,4 +1,10 @@
-# Starter Firebot Custom Script in Typescript
+# Firebot VNyan Websocket Script
+
+This code its fork of [SAMMI EXTENSION](https://ko-fi.com/s/c7898da4a9) but its Remake to make it support Firebot
+
+Code Credits still goes towards `Swolekat` for Main Code in SAMMI
+
+For me i Remake code make it Support Firebot Twitch BOT thats goes credits to `NekoSuneVR`
 
 ### Setup
 1. Create a new repo based off this template (Click "Use this Template" above) or simply fork it
