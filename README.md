@@ -6,6 +6,16 @@ Code Credits still goes towards `Swolekat` for Main Code in SAMMI
 
 For me i Remake code make it Support Firebot Twitch BOT thats goes credits to `NekoSuneVR`
 
+# How to install
+
+1. Download Latest Script in [RELEASES](https://github.com/NekoSuneVR/firebot-VNyan-Websocket/releases)
+2. Drag this Script in `%AppData%\Firebot\v5\profiles\Main Profile\scripts`
+
+then good go, can make commands like this
+
+Have fun :)
+
+
 ### Setup
 1. Create a new repo based off this template (Click "Use this Template" above) or simply fork it
 2. `npm install`
